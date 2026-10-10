@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "framework": "html",
+  "sandbox": true,
+  "output_dir": "dist",
+  "source_files": [
+    "index.html"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}
