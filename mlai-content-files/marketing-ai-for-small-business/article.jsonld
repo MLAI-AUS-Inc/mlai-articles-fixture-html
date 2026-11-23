@@ -1,0 +1,23 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Marketing AI for Small Business",
+    "description": "Practical steps for small business owners using AI.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/example/o/hero.png?alt=media"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Where should I start?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Start with one low-risk workflow."
+        }
+      }
+    ]
+  }
+]
