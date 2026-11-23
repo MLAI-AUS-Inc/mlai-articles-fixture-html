@@ -1,4 +1,12 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "content_sha256": "5834a37998e1abeaf6ec660ad1de3caf8f728cc021d9f9ae4359275321f026b0",
+      "description": "Practical steps for small business owners using AI.",
+      "published": "",
+      "slug": "marketing-ai-for-small-business",
+      "title": "Marketing AI for Small Business"
+    }
+  ],
   "kind": "static_dropin_v1"
 }
